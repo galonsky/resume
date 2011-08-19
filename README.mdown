@@ -1,3 +1,3 @@
-Template from here:
+A PDF version can be downloaded [here](https://github.com/downloads/galonsky/resume/resume.pdf).
 
-http://www.rpi.edu/dept/arc/training/latex/resumes/
+I'm using a template from [this](http://www.rpi.edu/dept/arc/training/latex/resumes/) source.
