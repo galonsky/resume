@@ -1,1 +1,3 @@
 I'm using a template from [this](http://www.rpi.edu/dept/arc/training/latex/resumes/) source.
+
+To generate: `pdflatex resume.tex`
